@@ -1,0 +1,14 @@
+G1: Demonstrate that the ML-based TNR Classifier is Safe for Vehicle Use
+S1: Argue by Substantiating Technical Requirements and Safety Objectives
+G2: Classifier Meets Technical Requirements for Accurate Dry Road Surface Identification
+Sn1: Analysis of ML Technique and Model Robustness and Generalisation
+G3: Classifier's Real-time Processing Capabilities are Adequate
+Sn2: Simulation Results for Real-time Signal Processing
+G4: Classifier Effectively Filters Sampling Anomalies
+Sn3: Structured Testing Results Including Corner Cases
+S2: Argue by Demonstrating Compliance with Functional Safety Requirement (FSR x)
+G5: TNR does not Identify Dry Conditions in Non-Dry Road Surfaces (FSR x)
+Sn4: Field Test Results and Domain Model Refinements
+C1: Description of TNR Component and its Role in the Vehicle
+A1: ML Technique is Suitable for TNR's Classification Function
+J1: False Negative Misclassification Does Not Violate Safety Goals

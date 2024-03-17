@@ -1,0 +1,25 @@
+G1: The X-ray backscattering machine operates with radiation levels within safe limits.
+C1: The X-ray backscattering machine is used for [specific application].
+C2: Definition and function of the X-ray backscattering machine.
+G2: All identified radiation hazards are mitigated or eliminated.
+C3: Radiation hazards identified from industry standards.
+S1: Argument over identified radiation hazards.
+A1: All potential radiation hazards have been identified.
+G3: Radiation hazard H1 has been mitigated.
+Sn1: Test results showing H1 mitigation.
+G4: Radiation hazard H2 has been eliminated.
+Sn2: Safety protocol documentation for H2 elimination.
+J1: Rationale for including H1 and H2 as primary hazards.
+G5: The machine's radiation emission is regularly monitored and controlled.
+C4: Monitoring and control procedures of radiation emission.
+S2: Argument based on regular monitoring protocols.
+A2: Effective monitoring can detect and control radiation variances.
+G6: Monitoring system is reliable and accurate.
+Sn3: Calibration records of the monitoring system.
+G7: Compliance with all relevant safety standards and regulations.
+C5: List of applicable safety standards and regulations.
+S3: Argument based on compliance evidence.
+G8: Machine design adheres to safety standards.
+Sn4: Compliance certification documents.
+G9: Operational procedures align with safety regulations.
+Sn5: Training records and operational manuals.

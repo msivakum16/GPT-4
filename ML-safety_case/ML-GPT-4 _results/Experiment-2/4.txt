@@ -1,0 +1,17 @@
+G1: Demonstrate that the ML algorithm for the TNR system meets its safety requirements, particularly regarding the avoidance of false positives (FP) in identifying dry road conditions.
+S1: Validate Functional Safety Requirement (FSR x)
+G2: Ensure the TNR does not report 'dry' for non-dry surfaces (ASIL B).
+Sn1: Analysis of ML model's classification accuracy.
+Sn2: Test results confirming compliance with FSR x.
+S2: Assess ML Model Robustness and Generalization
+G3: Analysis of ML technique strengths and weaknesses.
+Sn3: Technical reports on ML model robustness.
+Sn4: Expert reviews on generalization capabilities.
+S3: Verify Performance through Structured Testing
+G4: Comprehensive coverage of test cases based on domain model.
+Sn5: Documentation of test case design and coverage.
+Sn6: Results from structured testing.
+S4: Validate with Field Tests and Domain Model Refinement
+G5: Field tests to validate function in real-world conditions.
+Sn7: Field test data and analysis.
+Sn8: Reports on domain model refinements post field tests.

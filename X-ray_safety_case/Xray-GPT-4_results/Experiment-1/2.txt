@@ -1,0 +1,11 @@
+G1: X-ray machine has radiation within safe limits
+S1: Demonstrate compliance with safety standards and effective control measures
+G2: Machine complies with radiation safety standards
+Sn1: Certification of compliance
+G3: Machine design minimizes unnecessary exposure
+Sn2:Technical design documentation
+G4: Effective safety measures in place
+Sn3: Training records and safety protocol documents
+C1: Operational environment and intended use
+A1: Operated by trained professionals
+J1: Relevance of chosen safety standards

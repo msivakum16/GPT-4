@@ -1,0 +1,17 @@
+G1: The ML algorithm for TNR is acceptably safe for classifying road surface conditions.
+C1: Description of the ML algorithm and its role in TNR.
+C2: Definition of 'acceptably safe' in the context of road surface classification.
+S1: Argument by demonstration of technical requirement fulfillment.
+G2: The ML algorithm accurately classifies dry road surface conditions with minimal false positives.
+C3: Technical specifications and requirements of the ML algorithm.
+A1: The dataset used for training and testing is comprehensive and representative.
+J1: Justification for the threshold of false positives as 'minimal'.
+Sn1: Test results showing the false positive rate of the algorithm.
+G3: Effective mitigation strategies are in place for identified risks of false positives.
+C4: Identified risks associated with false positive classifications.
+S2: Argument by appeal to risk mitigation measures.
+A2: All potential risks of false positives have been identified.
+Sn2: Documentation of risk mitigation strategies and measures.
+G4: Continuous monitoring and updating mechanism is effective in maintaining the safety standard.
+C5: Description of the monitoring and updating mechanism.
+Sn3: Evidence of past updates and improvements based on monitoring data.

@@ -1,0 +1,12 @@
+G1: Demonstrate that the X-ray backscattering machine at an airport is acceptably safe, particularly ensuring no overradiation occurs.
+S1: Provide evidence and arguments for two main aspects: software operation safety and timer interlock operation safety.
+G2: Ensure software operation of the X-ray machine is safe and error-free.
+Sn1: Formal verification results of the software.
+Sn2: Testing results of the software under various scenarios.
+G3: Ensure the timer interlock operation is reliable and prevents overexposure.
+Sn3: Fault tree analysis results for the timer interlock system.
+Sn4: Testing results of the timer interlock under failure scenarios.
+A1: The testing environments for software and timer interlock systems accurately represent operational conditions.
+J1: The combination of formal verification and extensive testing provides a comprehensive assessment of potential failure modes and their mitigations.
+C1: Information about the operational environment of the X-ray backscattering machine, such as airport security checkpoints.
+C2: Regulatory standards for radiation exposure and safety measures in such machines.

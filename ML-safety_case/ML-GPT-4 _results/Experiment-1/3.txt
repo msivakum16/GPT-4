@@ -1,0 +1,13 @@
+G1: The top-level goal stating that the ML algorithm for the TNR component is acceptably safe in terms of its classification function, particularly in avoiding false positives in identifying dry road surface conditions.
+S1: A strategy describing how the top-level goal will be achieved. This might include a breakdown of the argument into sub-goals related to algorithm design, testing, and performance evaluation.
+G2: Assurance that the ML algorithm's design and development process follows best practices and standards.
+G3: Validation that the algorithm accurately classifies road surface conditions, with a specific focus on minimizing false positives.
+G4: Verification that the implementation of the ML algorithm in the TNR component meets all technical specifications.
+Sn1: Test reports showing the algorithm's performance in various conditions.
+Sn2: Documentation of adherence to ML development standards and best practices.
+C1: Description of the TNR system and its integration into the vehicle.
+C2: Specification of the operational environment and conditions under which the TNR system must perform.
+A1: Assumptions about the operational conditions of the vehicle.
+A2: Assumptions about the data used for training and testing the ML algorithm.
+J1: Rationale for the chosen ML model and its suitability for the TNR component.
+J2: Justification of the testing methodology and why it is adequate for assessing false positives.

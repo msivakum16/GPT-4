@@ -1,0 +1,17 @@
+G1: To demonstrate that the ML algorithm for the TNR component is acceptably safe in classifying road surface conditions (dry vs. non-dry) for vehicle control systems.
+C1: Description of the TNR system, its purpose, and its integration into the vehicle's control system. This includes the real-time requirements and the ML technique's role in classification.
+S1: Argument based on the satisfaction of Technical Requirements and Functional Safety Requirements (FSR).
+G2: To show that the ML algorithm meets the technical requirements for accurate and real-time classification of road surface conditions.
+G3: To demonstrate compliance with Functional Safety Requirement (FSR x): The TNR shall not provide the result 'dry' in case of a non-dry road surface (ASIL B).
+S2: Argument based on Validation & Verification (V&V) methods.
+G4: To validate the ML algorithm's performance through analysis and understanding of its strengths and weaknesses.
+G5: To verify the ML algorithm's robustness and accuracy through simulation using synthetic and recorded data.
+G6: To ensure comprehensive coverage and performance through structured testing, covering all known properties and specific corner cases.
+G7: To confirm real-world effectiveness and refine the domain model through field tests on real roads.
+Sn1: A comprehensive safety analysis report that includes details of the system design, hazard analysis, and risk assessment
+Sn2: Technical specification document and performance analysis report demonstrating the algorithm's real-time processing capabilities and accuracy in classification.
+Sn3: A compliance report detailing how the algorithm adheres to the FSR x, including test results and analysis that confirm the ML algorithm does not falsely classify non-dry surfaces as dry.
+Sn4: Analysis reports and expert reviews that provide insights into the strengths and weaknesses of the ML algorithm
+Sn5: Simulation test results, including scenarios of signal noise and varying road conditions, demonstrating the classifier’s robustness and accuracy.
+Sn6: Test case documentation, test results, and coverage analysis reports showing that all known properties and corner cases have been adequately tested.
+Sn7: Field test reports and analysis showing the algorithm’s performance on real roads, including data on how anomalies were addressed to refine the domain model.

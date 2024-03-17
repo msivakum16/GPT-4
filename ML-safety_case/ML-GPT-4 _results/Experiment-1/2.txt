@@ -1,0 +1,18 @@
+G1: Justify that the ML algorithm in the TNR component is safe with respect to functional insufficiencies leading to False Positives in identifying dry road surface conditions.
+S1: Demonstrate the fulfillment of technical requirements by the ML algorithm.
+G2: Validate the accuracy of the ML algorithm in classifying road surface conditions.
+Sn1: Results from testing the algorithm under various conditions.
+G3: Ensure the reliability of data used for training the ML algorithm.
+Sn2: Data sourcing and quality assurance records.
+G4: Verify the robustness of the ML algorithm against diverse environmental conditions.
+Sn3: Robustness testing results and environmental variability analysis.
+S2: Address the mitigation of risks associated with False Positives.
+G5: Implement safeguards against False Positives.
+Sn4: Description of safeguards and their implementation details.
+G6: Evaluate the impact of False Positives in operational scenarios.
+Sn5: Risk assessment reports and impact analysis.
+G7: Demonstrate the effectiveness of mitigation strategies for False Positives.
+Sn6: Testing reports showing the effectiveness of mitigation strategies.
+C1: Description of the ML algorithm and its role in the TNR system.
+A1: The operational environment of the TNR system is consistent with test conditions.
+J1: Rationale for the chosen testing methodologies and data sources.

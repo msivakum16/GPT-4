@@ -1,0 +1,18 @@
+G1: Demonstrate that the X-ray backscattering machine operates with radiation levels within safe limits.
+S1: Verification through Design and Testing.
+G2: Ensure design adheres to international safety standards for radiation emission.
+C1: International safety standards applicable to X-ray machines.
+Sn1: Design documentation aligning with safety standards.
+G2: Validate operational radiation levels are within safe exposure limits.
+C2: Description of operational scenarios for testing.
+Sn2: Test results showing radiation levels.
+S2: Compliance with Regulatory Requirements.
+G3: Certify compliance with health and safety regulations.
+C3: Health and safety regulations for radiation equipment.
+Sn3: Compliance certificates and documentation.
+G4: Obtain regulatory approval from health and safety authorities.
+C4: Authority guidelines for approval.
+Sn4: Approval documents from regulatory bodies.
+C2: Description of the X-ray backscattering machine.
+A1: Machine operated by trained professionals.
+J1: Rationale for chosen safety standards

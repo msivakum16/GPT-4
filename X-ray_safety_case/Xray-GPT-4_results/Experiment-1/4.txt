@@ -1,0 +1,15 @@
+G1: Ensure the X-ray backscattering machine operates with radiation within safe limits.
+S1: Demonstrate compliance with radiation safety standards.
+G1: Verify machine design adheres to international radiation safety standards.
+Sn1: Design certification documents.
+G2: Ensure operational procedures comply with radiation safety protocols.
+Sn2: Operational manual and training records.
+S2: Conduct regular maintenance and safety checks.
+G3: Perform routine maintenance and calibration.
+Sn3: Maintenance and calibration logs.
+G4: Conduct periodic radiation level testing.
+Sn4: Test results and compliance reports.
+A1: The machine is used as per the operational guidelines.
+A2: Regular maintenance is conducted as scheduled.
+C1: Applicable radiation safety standards and guidelines.
+J1: Research and historical data supporting the safety thresholds.

@@ -1,0 +1,15 @@
+G1: Demonstrate that the X-ray backscattering machine operates with radiation levels within safe limits.
+S1: Provide evidence of compliance with international radiation safety standards.
+G2: Demonstrate adherence to International Electrotechnical Commission (IEC) standards for medical X-ray equipment.
+G3: Show compliance with local/national radiation safety regulations.
+S2: Show effective implementation of safety features in the machine design.
+G4: Evidence of fail-safe mechanisms in case of malfunction.
+G5: Prove the effectiveness of shielding and safety interlocks.
+S3: Validate through independent safety assessments and testing.
+G6: Include results from independent radiation exposure tests.
+G7: Present findings from routine safety inspections and maintenance records.
+A1: The machine is used as per manufacturer’s guidelines and operating procedures.
+C1: Reference to manufacturer's specifications and user manual of the X-ray machine.
+E1: Technical reports detailing radiation measurements and compliance tests.
+E2: Certifications and approvals from relevant regulatory bodies.
+J1: Expert analysis supporting the safety measures and design choices.

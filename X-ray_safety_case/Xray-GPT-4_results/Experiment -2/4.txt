@@ -1,0 +1,8 @@
+G1: Ensure that the X-ray backscattering machine does not cause overradiation.
+S1: Demonstrate safety through two main components: software operation and timer interlock operation.
+G2: Verify the software operation ensures radiation levels within safe limits.
+Sn1: Formal verification results of software operation.
+Sn2: Testing results of software operation.
+G3: Ensure the timer interlock operation effectively prevents overradiation.
+Sn3: Fault tree analysis results for timer interlock operation.
+Sn4: Testing results for timer interlock operation

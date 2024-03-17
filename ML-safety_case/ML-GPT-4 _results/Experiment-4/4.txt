@@ -1,0 +1,18 @@
+G1: The ML algorithm for TNR is acceptably safe for vehicle operation.
+C1: The ML algorithm is implemented for real-time classification of road surface conditions (dry or not dry) in the TNR system.
+C2: The algorithm's output informs chassis control and powertrain systems for traction adaptation.
+S1: Argument by demonstration of algorithm's fulfillment of technical and safety requirements.
+A1: The algorithm accurately processes and classifies road surface noise under varied conditions.
+G2: The ML algorithm meets the Functional Safety Requirement (FSR x).
+C3: FSR x: The TNR shall not indicate a dry road surface when it is not dry (ASIL B).
+Sn1: Analysis report on ML technique's robustness and generalization capabilities.
+Sn2: Simulation results verifying ML properties, including noise robustness.
+Sn3: Structured testing documentation covering performance under known road conditions.
+Sn4: Field test reports from real roads demonstrating algorithm performance.
+G3: The algorithm's classification errors do not compromise safety.
+J1: False Negatives (FNs) result in conservative but safe control strategies.
+J2: Focus on preventing False Positives (FPs) as they directly relate to safety.
+Sn5: Evidence of strategies to minimize FPs, including algorithm adjustments and error analysis.
+G4: Real-time processing requirements are consistently met.
+Sn6: Performance test results showing real-time processing capabilities.
+Sn7: Documented instances of the algorithm processing diverse signal patterns effectively.

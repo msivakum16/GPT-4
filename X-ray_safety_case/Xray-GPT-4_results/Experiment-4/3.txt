@@ -1,0 +1,14 @@
+G1: The X-ray backscattering machine is acceptably safe for use in airport security.
+C1: Definition and purpose of the X-ray backscattering machine.
+S1: Argument by analysis of software operation and timer interlock operation.
+S2: Argument by appeal to technical assessments and safety mechanisms.
+G2: Safety in software operation.
+G3: Safety in timer interlock operation.
+G4: The software operation of the X-ray machine is verified and tested to prevent overradiation.
+Sn1: Formal verification results.
+Sn2: Testing results for software operation.
+A1: Software operates within defined parameters under all scenarios.
+G3: The timer interlock operation is fault-tolerant and effectively prevents overradiation.
+Sn3: Fault tree analysis results.
+Sn4: Testing results for timer interlock operation.
+A2: Timer interlock engages correctly in all scenarios.

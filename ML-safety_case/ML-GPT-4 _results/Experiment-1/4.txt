@@ -1,0 +1,14 @@
+G1: Ensure the ML algorithm for TNR component classifies road surface conditions with high accuracy, minimizing False Positives in dry road conditions.
+S1: Demonstrate through testing and analysis that the ML algorithm meets the functional requirements for accurate classification.
+G2: Validate the accuracy of the ML algorithm in identifying road surface conditions.
+Sn1: Results from controlled testing environments simulating various road conditions.
+G3: Assess the robustness of the ML algorithm against False Positives in dry road conditions.
+Sn2: Statistical analysis of False Positive rates in dry conditions from test data.
+S2: Ensure the reliability and stability of the ML algorithm in operational environments.
+G4: Demonstrate the ML algorithm's performance stability over time.
+Sn3: Long-term performance data showing consistent classification accuracy.
+G5: Verify the ML algorithm's resilience to varying environmental and operational conditions.
+Sn4: Test results under different environmental scenarios (e.g., weather changes, road textures).
+A1: The training data for the ML algorithm is comprehensive and representative of real-world conditions.
+C1: Description of the ML algorithm's role within the TNR system and its interaction with other vehicle components.
+J1: Rationale for the chosen ML algorithm and its suitability for TNR functions based on state-of-the-art practices.

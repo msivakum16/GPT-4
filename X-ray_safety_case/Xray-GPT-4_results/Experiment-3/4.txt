@@ -1,0 +1,19 @@
+G1: X-ray backscattering machine is acceptably safe for use in radiation exposure.
+C1: Definition of 'acceptably safe' in the context of radiation exposure.
+C2: The machine's operational context and user environment.
+S1: Argument by demonstration of radiation control.
+G2: The machine's radiation is within prescribed safety limits.
+C3: Description of safety limits as per international radiation safety standards.
+Sn1: Radiation measurement report confirming compliance with safety standards.
+A1: Assumption that the machine operates under standard conditions.
+G3: Effective shielding is in place to prevent radiation leakage.
+Sn2: Shielding design specifications and material safety data.
+J1: Justification for the chosen shielding materials based on their radiation attenuation properties.
+G4: The machine's radiation emission is consistently monitored and controlled.
+Sn3: Documentation of the radiation monitoring system.
+A2: Assumption that monitoring equipment is regularly calibrated and maintained.
+C4: Overview of X-ray backscattering technology and its applications.
+C5: Regulatory requirements for radiation-emitting devices.
+J2: Rationale for focusing on radiation control based on the machine's primary hazard potential.
+A3: Users are trained in safe operation and radiation safety procedures.
+A4: The environment in which the machine operates is controlled to minimize external risk factors.

@@ -1,0 +1,13 @@
+G1: To demonstrate that the X-ray backscattering machine operates within safe radiation limits.
+S1: Use formal verification and testing results to validate software operation safety.
+Sn1: Evidence from formal verification results.
+Sn2: Evidence from software testing results.
+S2: Use fault tree analysis and testing results to ensure the reliability of the timer interlock.
+Sn3: Evidence from fault tree analysis for timer interlock.
+Sn4: Evidence from testing results for timer interlock operation.
+A1: The testing environments are representative of operational conditions at airports.
+A2: The formal verification covers all relevant software use cases.
+J1: Formal verification is a reliable method for ensuring software safety.
+J2: Fault tree analysis is an effective tool for assessing system reliability.
+C1: Description and specifications of the X-ray backscattering machine.
+C2: Standards and regulations for airport security equipment radiation levels.

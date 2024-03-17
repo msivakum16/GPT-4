@@ -1,0 +1,12 @@
+G1: Justify that the ML algorithm for the TNR system is acceptably safe with respect to functional insufficiencies leading to False Positives (FP) in dry road surface condition identification.
+S1: Demonstrate fulfillment of technical requirements and effective handling of safety-relevant misclassifications (FP).
+G2: Prove that the ML algorithm meets functional safety requirement (FSR x): "The TNR shall not provide the result dry in case of a non-dry road surface (ASIL B)."
+G3: Demonstrate robustness and generalization capabilities of the ML algorithm.
+G4: Validate the algorithm's real-time processing capabilities and its ability to filter sampling anomalies.
+S2: Use evidence from various methods to support the safety argument.
+Sn1: Results from structured testing, including test cases covering all known properties and specific corner cases.
+Sn2: Analysis of the strengths and weaknesses of the ML model and expert reviews of generated prototypes.
+Sn3: Simulation results demonstrating the algorithm's performance in varied conditions, including signal noise.
+C1: The TNR system uses microphones within the wheel housing to classify road surface conditions as dry or not dry, influencing vehicle-level functions like chassis control and powertrain systems.
+A1: The domain model used in testing accurately represents real-world conditions and properties influencing the TNR system's performance.
+J1: The focus on FP (predicted dry while actually not dry) is justified as it is the only safety-relevant misclassification, with False Negatives (FN) leading to conservative but safe control strategies.

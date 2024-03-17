@@ -1,0 +1,15 @@
+G1: The ML algorithm for TNR is acceptably safe for classifying road surface conditions.
+C1: Description of the ML algorithm and its role in TNR.
+C2: Functional Safety Requirement (FSR x) - The TNR shall not provide the result 'dry' in case of a non-dry road surface (ASIL B).
+S1: Argument by demonstration of compliance with FSR x and reduction of False Positives.
+G2: The ML algorithm consistently meets the technical requirements for accurate classification.
+C3: Definition of True Positive, True Negative, False Negative, and False Positive.
+Sn1: Analysis report of ML technique strengths and weaknesses.
+G3: The ML algorithm has robustness against signal noise and anomalies.
+Sn2: Simulation results showing algorithm performance under various conditions.
+G4: Field tests validate the ML algorithm's real-world performance.
+Sn3: Field test results and analysis.
+G5: Structured testing confirms comprehensive coverage and performance.
+Sn4: Test case documentation and regression test results.
+J1: The safety relevance of False Positives (FP) necessitates rigorous verification of the ML algorithm against FSR x.
+A1: All relevant conditions affecting TNR performance are identified and accounted for in the tests.

@@ -1,0 +1,9 @@
+G1: All Causes of overradiation have been eliminated
+C1: Identified all cause of overradiation
+S1: Argument over all identified causes
+G2: Software operating as intended
+G3: Timer interlock operating correctly
+Sn1: Formal verification Results
+Sn2: Testing results
+Sn3: Fault Tree analysis
+Sn4: Testing results

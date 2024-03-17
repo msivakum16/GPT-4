@@ -1,0 +1,30 @@
+G1: The X-ray backscattering machine is acceptably safe for use.
+C1: Definition of X-ray backscattering machine.
+C2: Operational context and use of the X-ray machine.
+A1: The machine is used as per manufacturer's guidelines.
+J1: Ensuring safety is critical due to radiation exposure risks.
+G2: The machine's radiation emission is within safe limits.
+C3: Safety standards for radiation emission.
+S1: Argument by analysis of radiation control.
+G3: Radiation shielding is effective.
+Sn1: Test results of shielding effectiveness.
+G4: Radiation dose monitored and controlled.
+Sn2: Radiation monitoring logs.
+A2: Monitoring equipment is regularly calibrated.
+G5: Compliance with international radiation safety standards.
+Sn3: Certification of compliance.
+J2: International standards represent best practices in radiation safety.
+G6: Safety protocols for operation are rigorously followed.
+C4: Established safety protocols for X-ray machines.
+S2: Argument by adherence to operational protocols.
+G7: Operators trained in safety procedures.
+Sn4: Training records.
+G8: Emergency procedures are in place and known to staff.
+Sn5: Emergency response plan documentation.
+G9: Regular maintenance ensures the safety integrity of the machine.
+C5: Maintenance schedule and procedures.
+S3: Argument by systematic maintenance.
+G10: Maintenance is conducted as per schedule.
+Sn6: Maintenance logs and records.
+G11: No critical faults reported in the last inspections.
+Sn7: Recent inspection reports.

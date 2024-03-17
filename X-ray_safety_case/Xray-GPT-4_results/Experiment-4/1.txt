@@ -1,0 +1,14 @@
+G1: X-ray backscattering machine is acceptably safe for use in airport security.
+C1: Definition and function of the X-ray backscattering machine.
+C2: Regulatory standards for radiation exposure in airport security machines.
+G2: The machine consistently operates within safe radiation levels.
+C3: Regulatory limits for radiation exposure in airport security machines.
+S1: Argument by demonstration of compliance with safety standards.
+A1: The machine's design adheres to international safety standards.
+G3: Software operation maintains radiation within safe limits.
+Sn1: Formal verification results of software operation.
+Sn2: Testing results of software operation.
+G4: Timer interlock prevents overradiation.
+Sn3: Fault tree analysis results for Timer interlock.
+Sn4: Testing results for Timer interlock operation.
+J1: Inclusion of both software and hardware safety measures ensures comprehensive safety coverage.

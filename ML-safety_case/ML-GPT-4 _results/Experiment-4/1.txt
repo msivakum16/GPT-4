@@ -1,0 +1,22 @@
+G1: The ML algorithm for TNR is acceptably safe for vehicle use.
+C1: TNR uses ML to classify road surface conditions.
+C2: TNR improves vehicle-level functions like chassis control and powertrain systems.
+C3: Dryness is defined as a road surface without any materials between tyre and road surface.
+S1: Argument by demonstrating compliance with technical requirements and ISO 26262 standards.
+A1: All relevant safety concerns for the ML algorithm are identified.
+A2: The ML algorithm's runtime properties and signal processing capabilities meet real-time requirements.
+G2: The ML algorithm accurately identifies 'dry' and '!dry' road conditions.
+C4: Accuracy is defined in terms of True Positives, True Negatives, False Positives, and False Negatives.
+S2: Argument by verification and validation of the ML algorithm.
+Sn1: Analysis of ML algorithm's strengths and weaknesses.
+Sn2: Simulation results using synthetic and recorded data.
+Sn3: Results from structured testing covering all known properties.
+Sn4: Field test results on real roads.
+G3: The ML algorithm meets the functional safety requirement (FSR x).
+C5: FSR x: The TNR shall not provide the result 'dry' in case of a non-dry road surface (ASIL B).
+J1: Compliance with FSR x is critical for vehicle safety.
+S3: Argument by demonstrating robustness against anomalies.
+G4: The ML algorithm is robust against sampling anomalies like gravel impact.
+Sn5: Test results showing the ML algorithm's performance against anomalies.
+J2: The safety case focuses on FP misclassifications as they are safety-relevant.
+A3: The domain model used for testing accurately represents real-world conditions.

@@ -1,0 +1,18 @@
+G1: The ML algorithm for the TNR system is acceptably safe for classifying road surface conditions.
+C1: The ML algorithm is a core component of the TNR system in vehicles, used for real-time classification of road surface dryness.
+C2: Operational definition of dry and non-dry road conditions and their importance for vehicle control systems.
+S1: Argument by demonstration of safety through verification and validation (V&V) processes.
+G2: The ML algorithm consistently meets technical requirements for accurate road surface classification.
+Sn1: Evidence from analysis of the ML model’s robustness and generalization capabilities.
+Sn2: Prototype testing results verified by subject matter experts.
+G3: The ML algorithm effectively minimizes False Positive (FP) identifications of dry road conditions.
+S2: Argument based on targeted testing and field data.
+Sn3: Results from structured testing covering known properties and corner cases.
+Sn4: Field test results on diverse road conditions.
+J1: Emphasis on the safety criticality of minimizing FP identifications.
+A1: All relevant road surface conditions are representable in the training and testing data.
+A2: The operational environment of the TNR system remains within the tested parameters.
+J2: Rationale for focusing on FP as the primary safety concern due to its direct impact on vehicle control decisions.
+C3: Description of real-time processing requirements and the impact of external factors like loose gravel.
+C4: ISO 26262 compliance and the classification of the TNR system under Quality Management (QM) requirements.
+S3: Argument across different V&V methods including analysis, simulation, structured testing, and field tests.

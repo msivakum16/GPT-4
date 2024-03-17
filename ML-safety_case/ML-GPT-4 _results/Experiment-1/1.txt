@@ -1,0 +1,21 @@
+G1: Ensure the ML algorithm for TNR accurately identifies road surface conditions.
+S1: Demonstrate through evidence and reasoning the algorithm's ability to classify road surface conditions accurately.
+A1: The algorithm's training data is representative of real-world conditions.
+G2: Prove the reliability of the data used for training the ML algorithm.
+Sn1: Dataset description and source validation.
+Sn2: Data preprocessing and cleaning methodology.
+G3: Establish the algorithm's performance in classifying road surface conditions.
+Sn3: Results from testing and validation, including confusion matrices and accuracy metrics.
+C1: Metrics are based on a comprehensive set of test conditions.
+G4: Demonstrate the robustness of the algorithm under varied conditions.
+Sn4: Test results under different environmental and road conditions.
+S2: Analysis of algorithm's performance in edge cases.
+G5: Ensure minimal False Positives in classification.
+Sn5: Statistical analysis of false positive rates.
+J1: Explanation of acceptable false positive thresholds.
+G6: Confirm the algorithm's adherence to technical requirements.
+Sn6: Compliance documentation with technical specifications.
+C2: Technical requirements as defined by industry standards.
+G7: Establish ongoing monitoring and improvement processes.
+Sn7: Description of monitoring mechanisms and update protocols.
+S3: Continuous improvement based on real-world feedback.

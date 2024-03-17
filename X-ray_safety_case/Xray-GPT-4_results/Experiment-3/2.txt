@@ -1,0 +1,14 @@
+G1: The X-ray backscattering machine is acceptably safe for use.
+C1: Definition of X-ray backscattering machine.
+C2: Operational context of the X-ray machine in its intended environment.
+G2: The X-ray machine's radiation emission is within safe limits.
+C3: Description of safe radiation limits according to international standards.
+Sn1: Radiation level test results from certified testing agency.
+G3: All identified radiation hazards have been mitigated.
+C4: List of identified radiation hazards.
+S1: Argument by analysis of hazard mitigation measures.
+A1: All potential radiation hazards have been identified.
+G4: Specific hazard H1 has been mitigated.
+Sn2: Report on mitigation measures for hazard H1.
+J1: Rationale for the safety threshold defined in C3.
+J2: Justification for the completeness of hazard list in C4.

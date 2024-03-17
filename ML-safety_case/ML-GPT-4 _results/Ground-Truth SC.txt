@@ -1,0 +1,14 @@
+G1: The machine learning algorithm is intrinsically capable of  meeting the safety requirements allocated on the function
+A1: Assumption in safety concept
+C1: technical systems context
+C2: technical safety requirements
+S1: Strengths and weaknesses of the algorithm are systematically analyzed
+G2: The machine learning approach is well suited to the tasks
+Sn1: Description of ML approach
+Sn2: Review of generated prototypes
+Sn3: Evidence of robustness due to continuous function
+G3: Weakness in the approach are mitigated or shown to have no relevant impact on the performance
+Sn4: Uncertainty qualification
+Sn5: Evidence that prototype adaptation does skew to !dry
+Sn6: Maximum distance threshold
+Sn7: Out of distribution detection
